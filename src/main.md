@@ -1,0 +1,9 @@
+# 辐射成像大赛
+
+- 赛事平台
+  - [赛事主页 | Ghost Hunter Homepage](https://ri.thudep.com)
+  - [训练数据 | Ghost Hunter Files](https://rifile.thudep.com:7443/)
+- 赛事介绍
+  - [赛事介绍与报名](./introduction.md)
+- 赛事培训
+  - [第一次培训: pytorch](./talk/talk1.md)
