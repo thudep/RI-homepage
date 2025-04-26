@@ -7,3 +7,4 @@
   - [赛事介绍与报名](./introduction.md)
 - 赛事培训
   - [第一次培训: pytorch](./talk/talk1.md)
+  - [第一次宣讲会: 数据集讲解与评分标准, 样例代码](./talk/presentation1.md)
