@@ -6,6 +6,7 @@
 
 - [第一届辐射成像大赛](./introduction.md)
 - [赛事规则](./rules.md)
+- [赛程安排](./schedule.md)
 
 # 培训与宣讲
 
