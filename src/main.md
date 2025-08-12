@@ -2,7 +2,7 @@
 
 - 赛事平台
   - [赛事主页](https://ri.thudep.com)
-  - [清华大学gitlab](https://git.tsinghua.edu.cn/)
+  - [清华大学gitlab](https://git.tsinghua.edu.cn/radiation-imaging-contest/competitor)
   - [训练数据](https://rifile.thudep.com:7300/)
 - 赛事介绍与规则
   - [赛事介绍与报名](./introduction.md)
