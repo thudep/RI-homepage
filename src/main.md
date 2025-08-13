@@ -4,6 +4,7 @@
   - [赛事主页](https://ri.thudep.com)
   - [清华大学gitlab](https://git.tsinghua.edu.cn/radiation-imaging-contest/competitor)
   - [训练数据](https://rifile.thudep.com:7300/)
+  - [得分排行](https://ri-leaderboard.thudep.com/)
 - 赛事介绍与规则
   - [赛事介绍与报名](./introduction.md)
   - [赛事规则](./rules.md)
