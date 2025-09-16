@@ -12,3 +12,7 @@
 
 - [第一次培训](./talk/talk1.md)
 - [第一次宣讲](./talk/presentation1.md)
+
+# 评测结果
+
+- [最终评测结果](./final.md)
